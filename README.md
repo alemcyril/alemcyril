@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi there 👋, I'm Alem Cyril, a software engineer<br><br>- 🔭 I’m currently working on a smart outfit recommendation system<br>- 🌱 I’m currently learning Docker<br>- ⚡ Fun fact: I love playing chess and gaming<br>
+# Hi there 👋, I'm Alem Cyril and I'm a software engineer
+## <br>- 🔭 I’m currently working on a smart outfit recommendation system<br>- 🌱 I’m currently learning Docker<br>- ⚡ Fun fact: I love playing chess and gaming<br>
 
 
 ## 🌐 Socials:
